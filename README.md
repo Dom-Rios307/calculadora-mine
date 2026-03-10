@@ -17,3 +17,19 @@ chmod +x menu_fazer_menu.sh
 
 4. Execute o script
 ./menu_fazer_menu.sh
+
+## Explicação do código Python
+
+O arquivo calculador.py contém uma calculadora simples feita em Python.
+
+O programa permite que o usuário:
+
+- Somar dois números
+- Subtrair dois números
+- Multiplicar dois números
+- Dividir dois números
+
+  O script pede que o usuário digite dois valores e escolha a operação matemática desejada.
+  Depois disso, o Python realiza o cálculo e mostra o resultado na tela.
+
+  Esse arquivo é executado pelo script em Shell (menu_faer_menu.sh), que funciona como um menu para rodar o programa.
